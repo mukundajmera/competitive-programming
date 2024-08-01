@@ -13,6 +13,6 @@ class Solution:
             #moving prev pointer for next value
             prev = prev.next
 
-        prev.next = l1 if l1 is not None else l2
+        prev.next = l1 if l1 else l2
 
         return prehead.next
