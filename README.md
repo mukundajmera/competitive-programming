@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0125-valid-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/mukundajmera/competitive-programming/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
