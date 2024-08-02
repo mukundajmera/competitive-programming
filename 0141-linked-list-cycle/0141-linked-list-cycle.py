@@ -14,5 +14,4 @@ class Solution:
                 return False
             fast = fast.next.next
             slow = slow.next
-           
         return True
