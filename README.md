@@ -73,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/mukundajmera/competitive-programming/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/mukundajmera/competitive-programming/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mukundajmera/competitive-programming/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
