@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukundajmera/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1196-filling-bookcase-shelves](https://github.com/mukundajmera/competitive-programming/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/mukundajmera/competitive-programming/tree/master/1511-count-number-of-teams) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukundajmera/competitive-programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/mukundajmera/competitive-programming/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0125-valid-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukundajmera/competitive-programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
