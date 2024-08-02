@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mukundajmera/competitive-programming/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/mukundajmera/competitive-programming/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mukundajmera/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukundajmera/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1196-filling-bookcase-shelves](https://github.com/mukundajmera/competitive-programming/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/mukundajmera/competitive-programming/tree/master/1511-count-number-of-teams) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/mukundajmera/competitive-programming/tree/master/0383-ransom-note) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mukundajmera/competitive-programming/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
