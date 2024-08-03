@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mukundajmera/competitive-programming/tree/master/0792-binary-search) |
 | [1196-filling-bookcase-shelves](https://github.com/mukundajmera/competitive-programming/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/mukundajmera/competitive-programming/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukundajmera/competitive-programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/mukundajmera/competitive-programming/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mukundajmera/competitive-programming/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mukundajmera/competitive-programming/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
 | ------- |
