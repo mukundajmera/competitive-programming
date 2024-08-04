@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0210-course-schedule-ii) |
+| [1738-maximal-network-rank](https://github.com/mukundajmera/competitive-programming/tree/master/1738-maximal-network-rank) |
 ## Topological Sort
 |  |
 | ------- |
