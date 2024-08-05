@@ -8,9 +8,7 @@ class Solution:
                 distinct_words[word] = 1
         word = ""
         for key, value in distinct_words.items():
-            if value > 1:
-                continue
-            elif value == 1:
+            if value == 1:
                 k -= 1
                 if k == 0:
                     word = key
