@@ -33,6 +33,7 @@ class Solution:
 
                 # Append the scale (thousand, million, billion) for the current group
                 group_result += thousands[group_index] + " "
+                print(group_result)
                 # Insert the group result at the beginning of the final result
                 result = group_result + result
             # Move to the next chunk of 1000
