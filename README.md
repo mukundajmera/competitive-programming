@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mukundajmera/competitive-programming/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mukundajmera/competitive-programming/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mukundajmera/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0234-palindrome-linked-list) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mukundajmera/competitive-programming/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/mukundajmera/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mukundajmera/competitive-programming/tree/master/0217-contains-duplicate) |
