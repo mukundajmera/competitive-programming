@@ -3,8 +3,9 @@ class Solution:
         subProblem = [float('inf')] * (amount + 1)
         subProblem[0] = 0
 
-        for coin in coins:
-            for num in range(coin, amount+1):
-                subProblem[num] = min(subProblem[num], subProblem[num - coin] + 1)
+        for num in range(1, amount + 1):
+            for coin in coins:
+                if num - coin >= 0:
+                    subProblem[num] = min(subProblem[num], 1 + subProblem[num - coin])
 
         return -1 if subProblem[amount] == float('inf') else subProblem[amount]
