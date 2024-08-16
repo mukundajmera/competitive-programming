@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
+| [0624-maximum-distance-in-arrays](https://github.com/mukundajmera/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukundajmera/competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/mukundajmera/competitive-programming/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/mukundajmera/competitive-programming/tree/master/0792-binary-search) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
+| [0624-maximum-distance-in-arrays](https://github.com/mukundajmera/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/mukundajmera/competitive-programming/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukundajmera/competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
