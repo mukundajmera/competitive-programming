@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mukundajmera/competitive-programming/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/mukundajmera/competitive-programming/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/mukundajmera/competitive-programming/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mukundajmera/competitive-programming/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/mukundajmera/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mukundajmera/competitive-programming/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/mukundajmera/competitive-programming/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/mukundajmera/competitive-programming/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
