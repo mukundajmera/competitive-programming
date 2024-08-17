@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mukundajmera/competitive-programming/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukundajmera/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/mukundajmera/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mukundajmera/competitive-programming/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mukundajmera/competitive-programming/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mukundajmera/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mukundajmera/competitive-programming/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/mukundajmera/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mukundajmera/competitive-programming/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/mukundajmera/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mukundajmera/competitive-programming/tree/master/0169-majority-element) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mukundajmera/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/mukundajmera/competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 ## Prefix Sum
