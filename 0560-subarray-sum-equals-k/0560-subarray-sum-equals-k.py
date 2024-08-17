@@ -8,7 +8,7 @@ class Solution:
         for idx in range(len(nums)):
             sum += nums[idx]
             if (sum - k) in  sub_map:
-                print("i am in")
+                # print("i am in")
                 count += sub_map[sum-k]
             sub_map[sum] = sub_map.get(sum,0) + 1
             # print(sub_map, sum-k)
