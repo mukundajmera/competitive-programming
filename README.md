@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mukundajmera/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mukundajmera/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/mukundajmera/competitive-programming/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mukundajmera/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukundajmera/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/mukundajmera/competitive-programming/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mukundajmera/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/mukundajmera/competitive-programming/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mukundajmera/competitive-programming/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
