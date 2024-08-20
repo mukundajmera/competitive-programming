@@ -21,10 +21,8 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-        // System.out.println(slow.val + " ");
         slow.next = reverse(slow.next);
         slow = slow.next;
-        // System.out.println(slow.val + " " );
         ListNode curr = head;
 
 
