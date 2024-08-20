@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/mukundajmera/competitive-programming/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
+| [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mukundajmera/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/mukundajmera/competitive-programming/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/mukundajmera/competitive-programming/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mukundajmera/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/mukundajmera/competitive-programming/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/mukundajmera/competitive-programming/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/mukundajmera/competitive-programming/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mukundajmera/competitive-programming/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mukundajmera/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -453,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mukundajmera/competitive-programming/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
