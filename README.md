@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/mukundajmera/competitive-programming/tree/master/0273-integer-to-english-words) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0650-2-keys-keyboard](https://github.com/mukundajmera/competitive-programming/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/mukundajmera/competitive-programming/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mukundajmera/competitive-programming/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/mukundajmera/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -469,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
