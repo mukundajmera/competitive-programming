@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/mukundajmera/competitive-programming/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
