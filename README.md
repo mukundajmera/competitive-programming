@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/mukundajmera/competitive-programming/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mukundajmera/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1511-count-number-of-teams](https://github.com/mukundajmera/competitive-programming/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mukundajmera/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
