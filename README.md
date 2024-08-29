@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/mukundajmera/competitive-programming/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/mukundajmera/competitive-programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mukundajmera/competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/mukundajmera/competitive-programming/tree/master/0999-regions-cut-by-slashes) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mukundajmera/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukundajmera/competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mukundajmera/competitive-programming/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukundajmera/competitive-programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Database
 |  |
