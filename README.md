@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mukundajmera/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mukundajmera/competitive-programming/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
+| [0883-car-fleet](https://github.com/mukundajmera/competitive-programming/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/mukundajmera/competitive-programming/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/mukundajmera/competitive-programming/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/mukundajmera/competitive-programming/tree/master/0941-sort-array-by-parity) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mukundajmera/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mukundajmera/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
+| [0883-car-fleet](https://github.com/mukundajmera/competitive-programming/tree/master/0883-car-fleet) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mukundajmera/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukundajmera/competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0883-car-fleet](https://github.com/mukundajmera/competitive-programming/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/mukundajmera/competitive-programming/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mukundajmera/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/mukundajmera/competitive-programming/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/mukundajmera/competitive-programming/tree/master/0883-car-fleet) |
 ## Monotonic Queue
 |  |
 | ------- |
