@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/mukundajmera/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/mukundajmera/competitive-programming/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mukundajmera/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/mukundajmera/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukundajmera/competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mukundajmera/competitive-programming/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mukundajmera/competitive-programming/tree/master/0383-ransom-note) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukundajmera/competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mukundajmera/competitive-programming/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/mukundajmera/competitive-programming/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mukundajmera/competitive-programming/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -479,12 +484,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mukundajmera/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/mukundajmera/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 ## Union Find
 |  |
@@ -543,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/mukundajmera/competitive-programming/tree/master/1325-path-with-maximum-probability) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
