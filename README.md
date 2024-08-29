@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/mukundajmera/competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/mukundajmera/competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mukundajmera/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/mukundajmera/competitive-programming/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mukundajmera/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/mukundajmera/competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/mukundajmera/competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mukundajmera/competitive-programming/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/mukundajmera/competitive-programming/tree/master/2035-count-sub-islands) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/mukundajmera/competitive-programming/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/mukundajmera/competitive-programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0210-course-schedule-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/mukundajmera/competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/mukundajmera/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1738-maximal-network-rank](https://github.com/mukundajmera/competitive-programming/tree/master/1738-maximal-network-rank) |
 ## Topological Sort
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mukundajmera/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/mukundajmera/competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/mukundajmera/competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/mukundajmera/competitive-programming/tree/master/2035-count-sub-islands) |
 ## Prefix Sum
