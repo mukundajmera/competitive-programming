@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mukundajmera/competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/mukundajmera/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1738-maximal-network-rank](https://github.com/mukundajmera/competitive-programming/tree/master/1738-maximal-network-rank) |
+| [2803-modify-graph-edge-weights](https://github.com/mukundajmera/competitive-programming/tree/master/2803-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/mukundajmera/competitive-programming/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/mukundajmera/competitive-programming/tree/master/2803-modify-graph-edge-weights) |
 ## Quickselect
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/mukundajmera/competitive-programming/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/mukundajmera/competitive-programming/tree/master/2803-modify-graph-edge-weights) |
 ## Bucket Sort
 |  |
 | ------- |
