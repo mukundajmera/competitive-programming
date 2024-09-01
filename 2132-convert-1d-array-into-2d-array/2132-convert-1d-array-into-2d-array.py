@@ -4,7 +4,8 @@ class Solution:
             return []
         
         result = [[0] * n for _ in range(m)]
-        for idx in range(len(original)):
-            row, col = divmod(idx, n)
-            result[row][col] = original[idx]
+        index = 0
+        for idx in range(m):
+            result[index] = original[(idx*n):(idx + 1) * n]
+            index += 1
         return result
