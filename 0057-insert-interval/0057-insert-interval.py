@@ -12,6 +12,7 @@ class Solution:
                 right = mid - 1
         intervals.insert(left, newInterval)
         result = []
+        #once inserted run merge and update the list
         for inter in intervals:
             if not result or result[-1][1] < inter[0]:
                 result.append(inter)
