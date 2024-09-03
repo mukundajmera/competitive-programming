@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mukundajmera/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mukundajmera/competitive-programming/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mukundajmera/competitive-programming/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/mukundajmera/competitive-programming/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mukundajmera/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mukundajmera/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mukundajmera/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/mukundajmera/competitive-programming/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/mukundajmera/competitive-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mukundajmera/competitive-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0054-spiral-matrix) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mukundajmera/competitive-programming/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/mukundajmera/competitive-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
