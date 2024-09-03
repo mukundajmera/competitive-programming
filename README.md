@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mukundajmera/competitive-programming/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/mukundajmera/competitive-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mukundajmera/competitive-programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mukundajmera/competitive-programming/tree/master/0057-insert-interval) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mukundajmera/competitive-programming/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mukundajmera/competitive-programming/tree/master/0733-flood-fill) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/mukundajmera/competitive-programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
