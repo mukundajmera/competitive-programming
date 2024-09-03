@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/mukundajmera/competitive-programming/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/mukundajmera/competitive-programming/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/mukundajmera/competitive-programming/tree/master/0650-2-keys-keyboard) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mukundajmera/competitive-programming/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/mukundajmera/competitive-programming/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/mukundajmera/competitive-programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mukundajmera/competitive-programming/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0564-find-the-closest-palindrome) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mukundajmera/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/mukundajmera/competitive-programming/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukundajmera/competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
