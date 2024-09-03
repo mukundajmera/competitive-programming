@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mukundajmera/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mukundajmera/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/mukundajmera/competitive-programming/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mukundajmera/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/mukundajmera/competitive-programming/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/mukundajmera/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/mukundajmera/competitive-programming/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/mukundajmera/competitive-programming/tree/master/1137-height-checker) |
 ## Shortest Path
 |  |
