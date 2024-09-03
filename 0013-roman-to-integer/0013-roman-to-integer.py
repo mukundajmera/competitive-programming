@@ -9,6 +9,7 @@ class Solution:
                 "M":1000}
         idx = len(s)-1
         value = 0
+        #read in reverse order
         while idx >= 0:
             curr_val = rval.get(s[idx])
             negative = 0
