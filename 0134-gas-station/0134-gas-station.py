@@ -4,11 +4,12 @@ class Solution:
         sum_of_cost = sum(cost)
         if sum_of_cost > sum_of_gas:
             return -1
-        
-        current_gas, start = 0 ,0 
+
+        current = 0
+        start = 0
         for idx in range(len(gas)):
-            current_gas += gas[idx] - cost[idx]
-            if current_gas < 0:
-                current_gas = 0
+            current += gas[idx] - cost[idx]
+            if current < 0:
+                current = 0
                 start = idx + 1
         return start
