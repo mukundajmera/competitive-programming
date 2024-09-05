@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mukundajmera/competitive-programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mukundajmera/competitive-programming/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/mukundajmera/competitive-programming/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mukundajmera/competitive-programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mukundajmera/competitive-programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mukundajmera/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/mukundajmera/competitive-programming/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/mukundajmera/competitive-programming/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mukundajmera/competitive-programming/tree/master/0151-reverse-words-in-a-string) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/mukundajmera/competitive-programming/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/mukundajmera/competitive-programming/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/mukundajmera/competitive-programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
