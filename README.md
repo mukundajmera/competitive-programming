@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukundajmera/competitive-programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/mukundajmera/competitive-programming/tree/master/2727-number-of-senior-citizens) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukundajmera/competitive-programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukundajmera/competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukundajmera/competitive-programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukundajmera/competitive-programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
