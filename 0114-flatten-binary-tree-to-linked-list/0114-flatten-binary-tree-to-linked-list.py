@@ -5,6 +5,10 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+
+    def __init__(self):
+        self.prev = None
+
     def flatten(self, root: Optional[TreeNode]) -> None:
         """
         Do not return anything, modify root in-place instead.
@@ -12,14 +16,23 @@ class Solution:
         if not root:
             return
         
-        curr = root
-        while curr:
-            if curr.left:
-                last = curr.left
-                while last.right:
-                    last = last.right
-                last.right = curr.right
-                curr.right = curr.left
-                curr.left = None
-            curr = curr.right
+        self.flatten(root.right)
+        self.flatten(root.left)
+        root.right = self.prev
+        root.left = None
+        self.prev = root
+
+        # if not root:
+        #     return
+        
+        # curr = root
+        # while curr:
+        #     if curr.left:
+        #         last = curr.left
+        #         while last.right:
+        #             last = last.right
+        #         last.right = curr.right
+        #         curr.right = curr.left
+        #         curr.left = None
+        #     curr = curr.right
         
