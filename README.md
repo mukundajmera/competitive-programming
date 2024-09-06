@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mukundajmera/competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mukundajmera/competitive-programming/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/mukundajmera/competitive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mukundajmera/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mukundajmera/competitive-programming/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/mukundajmera/competitive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/mukundajmera/competitive-programming/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0234-palindrome-linked-list) |
