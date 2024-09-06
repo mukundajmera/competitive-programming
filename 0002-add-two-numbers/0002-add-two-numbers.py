@@ -35,6 +35,7 @@ class Solution:
             else:
                 curr.next = node
                 curr = curr.next
+
         if carry:
             curr.next = ListNode(1)
         return result
