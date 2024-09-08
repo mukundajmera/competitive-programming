@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mukundajmera/competitive-programming/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mukundajmera/competitive-programming/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/mukundajmera/competitive-programming/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mukundajmera/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0040-combination-sum-ii) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/mukundajmera/competitive-programming/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mukundajmera/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/mukundajmera/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
