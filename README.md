@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/mukundajmera/competitive-programming/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mukundajmera/competitive-programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/mukundajmera/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mukundajmera/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mukundajmera/competitive-programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/mukundajmera/competitive-programming/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
