@@ -8,5 +8,3 @@ class Solution:
             
             start = prices[idx]
         return max_profit
-
-        return max_profit
