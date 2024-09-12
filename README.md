@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mukundajmera/competitive-programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mukundajmera/competitive-programming/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/mukundajmera/competitive-programming/tree/master/0459-repeated-substring-pattern) |
 | [0564-find-the-closest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/mukundajmera/competitive-programming/tree/master/0592-fraction-addition-and-subtraction) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/mukundajmera/competitive-programming/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
