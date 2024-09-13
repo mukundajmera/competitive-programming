@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/mukundajmera/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mukundajmera/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mukundajmera/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/mukundajmera/competitive-programming/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mukundajmera/competitive-programming/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mukundajmera/competitive-programming/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/mukundajmera/competitive-programming/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mukundajmera/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mukundajmera/competitive-programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukundajmera/competitive-programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/mukundajmera/competitive-programming/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Strongly Connected Component
