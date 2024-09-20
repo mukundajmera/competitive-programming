@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mukundajmera/competitive-programming/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/mukundajmera/competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mukundajmera/competitive-programming/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/mukundajmera/competitive-programming/tree/master/0242-valid-anagram) |
@@ -697,11 +698,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/mukundajmera/competitive-programming/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 ## Graph
 |  |
@@ -833,4 +836,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mukundajmera/competitive-programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
