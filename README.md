@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mukundajmera/competitive-programming/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/mukundajmera/competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mukundajmera/competitive-programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mukundajmera/competitive-programming/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0241-different-ways-to-add-parentheses) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mukundajmera/competitive-programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mukundajmera/competitive-programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mukundajmera/competitive-programming/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/mukundajmera/competitive-programming/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mukundajmera/competitive-programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/mukundajmera/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mukundajmera/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mukundajmera/competitive-programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/mukundajmera/competitive-programming/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
