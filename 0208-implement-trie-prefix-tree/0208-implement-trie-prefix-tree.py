@@ -1,33 +1,37 @@
 class Trie:
 
     def __init__(self):
-        self.trie = {}
+        self.trie = {"*" : ""}
 
     def insert(self, word: str) -> None:
-        current_tree = self.trie
+        current = self.trie
         for ch in word:
-            if ch not in current_tree:
-                current_tree[ch] = {}
-            current_tree = current_tree[ch]
-        #after all going to leef node
-        current_tree['*'] = ''
-    #check for traversing entire word and check if leaf node is '*'
+            if not ch in current:
+                current[ch] = {}
+            current = current[ch]
+        print(current)
+        current["*"] = {} 
+
     def search(self, word: str) -> bool:
-        tree = self.trie
+        found = True
+        current = self.trie
+        # print(current)
         for ch in word:
-            if ch not in tree:
+            if not ch in current:
                 return False
-            tree = tree[ch]
-        return '*' in tree
-    
-        
-    #check for traversing partial tree
+            else:
+                current = current[ch]
+        if current.get("*") is None:
+            found = False
+        return found
+
     def startsWith(self, prefix: str) -> bool:
-        tree = self.trie
+        found = True
+        current = self.trie
         for ch in prefix:
-            if ch not in tree:
+            if ch not in current:
                 return False
-            tree = tree[ch]
+            current = current[ch]
         return True
 
 
