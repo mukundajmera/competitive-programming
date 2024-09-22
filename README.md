@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mukundajmera/competitive-programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mukundajmera/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0219-contains-duplicate-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/mukundajmera/competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mukundajmera/competitive-programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mukundajmera/competitive-programming/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0241-different-ways-to-add-parentheses) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/mukundajmera/competitive-programming/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mukundajmera/competitive-programming/tree/master/0733-flood-fill) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mukundajmera/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mukundajmera/competitive-programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/mukundajmera/competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/mukundajmera/competitive-programming/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## String Matching
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mukundajmera/competitive-programming/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mukundajmera/competitive-programming/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
 | ------- |
