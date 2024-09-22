@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/mukundajmera/competitive-programming/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/mukundajmera/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/mukundajmera/competitive-programming/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/mukundajmera/competitive-programming/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/mukundajmera/competitive-programming/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/mukundajmera/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/mukundajmera/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/mukundajmera/competitive-programming/tree/master/2803-modify-graph-edge-weights) |
 ## Quickselect
