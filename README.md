@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mukundajmera/competitive-programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/mukundajmera/competitive-programming/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2727-number-of-senior-citizens](https://github.com/mukundajmera/competitive-programming/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/mukundajmera/competitive-programming/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukundajmera/competitive-programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/mukundajmera/competitive-programming/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mukundajmera/competitive-programming/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/mukundajmera/competitive-programming/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mukundajmera/competitive-programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/mukundajmera/competitive-programming/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/mukundajmera/competitive-programming/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukundajmera/competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukundajmera/competitive-programming/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mukundajmera/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/mukundajmera/competitive-programming/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukundajmera/competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukundajmera/competitive-programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -727,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/mukundajmera/competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/mukundajmera/competitive-programming/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/mukundajmera/competitive-programming/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
