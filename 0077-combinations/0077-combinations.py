@@ -7,9 +7,10 @@ class Solution:
                 return
 
             for idx in range(index, n+1):
-                stack.append(idx)
-                dfs(idx + 1, stack)
-                stack.pop()
+                if len(stack) < k:
+                    stack.append(idx)
+                    dfs(idx + 1, stack)
+                    stack.pop()
         
         dfs(1, [])
         return combination
