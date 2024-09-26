@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mukundajmera/competitive-programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mukundajmera/competitive-programming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mukundajmera/competitive-programming/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mukundajmera/competitive-programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mukundajmera/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mukundajmera/competitive-programming/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/mukundajmera/competitive-programming/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/mukundajmera/competitive-programming/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/mukundajmera/competitive-programming/tree/master/0139-word-break) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mukundajmera/competitive-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mukundajmera/competitive-programming/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/mukundajmera/competitive-programming/tree/master/0289-game-of-life) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/mukundajmera/competitive-programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mukundajmera/competitive-programming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mukundajmera/competitive-programming/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
