@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mukundajmera/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/mukundajmera/competitive-programming/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/mukundajmera/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/mukundajmera/competitive-programming/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/mukundajmera/competitive-programming/tree/master/0890-lemonade-change) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/mukundajmera/competitive-programming/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/mukundajmera/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/mukundajmera/competitive-programming/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -653,11 +655,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/mukundajmera/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/mukundajmera/competitive-programming/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mukundajmera/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/mukundajmera/competitive-programming/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/mukundajmera/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/0954-maximum-sum-circular-subarray) |
 ## Interactive
 |  |
