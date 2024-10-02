@@ -1,18 +1,22 @@
 class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
-        # Store the rank for each number in arr
-        num_to_indices = {k: [] for k in sorted(set(arr))}
+        sorted_set = sorted(set(arr))
+        element_map = {ele:rank+1 for rank,ele in enumerate(sorted_set)}
+        return [element_map[ele] for ele in arr]
 
-        for i, num in enumerate(arr):
-            num_to_indices[num].append(i)
+        # # Store the rank for each number in arr
+        # num_to_indices = {k: [] for k in sorted(set(arr))}
 
-        rank = 1
-        for num in num_to_indices.keys():
-            for index in num_to_indices[num]:
-                arr[index] = rank
-            rank += 1
+        # for i, num in enumerate(arr):
+        #     num_to_indices[num].append(i)
 
-        return arr
+        # rank = 1
+        # for num in num_to_indices.keys():
+        #     for index in num_to_indices[num]:
+        #         arr[index] = rank
+        #     rank += 1
+
+        # return arr
 
         # num_to_rank = {}
         # sorted_arr = sorted(arr)
