@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/mukundajmera/competitive-programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mukundajmera/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mukundajmera/competitive-programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/mukundajmera/competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mukundajmera/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mukundajmera/competitive-programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/mukundajmera/competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/mukundajmera/competitive-programming/tree/master/0883-car-fleet) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mukundajmera/competitive-programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mukundajmera/competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/mukundajmera/competitive-programming/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/mukundajmera/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/mukundajmera/competitive-programming/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mukundajmera/competitive-programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukundajmera/competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
