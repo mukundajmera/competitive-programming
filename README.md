@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/mukundajmera/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukundajmera/competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/mukundajmera/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0731-my-calendar-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/mukundajmera/competitive-programming/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mukundajmera/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/mukundajmera/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukundajmera/competitive-programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Database
 |  |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mukundajmera/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/mukundajmera/competitive-programming/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/mukundajmera/competitive-programming/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukundajmera/competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/mukundajmera/competitive-programming/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/mukundajmera/competitive-programming/tree/master/0941-sort-array-by-parity) |
@@ -732,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mukundajmera/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/mukundajmera/competitive-programming/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/mukundajmera/competitive-programming/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/mukundajmera/competitive-programming/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mukundajmera/competitive-programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mukundajmera/competitive-programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -841,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mukundajmera/competitive-programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/mukundajmera/competitive-programming/tree/master/0502-ipo) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukundajmera/competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/mukundajmera/competitive-programming/tree/master/1127-last-stone-weight) |
