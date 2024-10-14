@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mukundajmera/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mukundajmera/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/mukundajmera/competitive-programming/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/mukundajmera/competitive-programming/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0241-different-ways-to-add-parentheses) |
