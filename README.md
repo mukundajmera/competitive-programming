@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mukundajmera/competitive-programming/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mukundajmera/competitive-programming/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/mukundajmera/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mukundajmera/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/mukundajmera/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/mukundajmera/competitive-programming/tree/master/0202-happy-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mukundajmera/competitive-programming/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/mukundajmera/competitive-programming/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/mukundajmera/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mukundajmera/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mukundajmera/competitive-programming/tree/master/0162-find-peak-element) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mukundajmera/competitive-programming/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mukundajmera/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mukundajmera/competitive-programming/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/mukundajmera/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mukundajmera/competitive-programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mukundajmera/competitive-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mukundajmera/competitive-programming/tree/master/0205-isomorphic-strings) |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/mukundajmera/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
