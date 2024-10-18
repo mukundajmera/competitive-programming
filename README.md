@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/mukundajmera/competitive-programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/mukundajmera/competitive-programming/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mukundajmera/competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukundajmera/competitive-programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/mukundajmera/competitive-programming/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mukundajmera/competitive-programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/mukundajmera/competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mukundajmera/competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mukundajmera/competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mukundajmera/competitive-programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mukundajmera/competitive-programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mukundajmera/competitive-programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mukundajmera/competitive-programming/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0212-word-search-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mukundajmera/competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Data Stream
 |  |
 | ------- |
@@ -999,4 +1002,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/mukundajmera/competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0731-my-calendar-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mukundajmera/competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
