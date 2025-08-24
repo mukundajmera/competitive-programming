@@ -17,16 +17,18 @@ class Solution:
                 
             if up == down:
                 break
+
             # traverse to left
             for col in range(right -1, left-1, -1):
                 result.append(matrix[down][col])
 
             if left == right:
                 break
+
             # traverse to up
             for row in range(down - 1, up, -1):
                 result.append(matrix[row][left])
-
+                
             left += 1
             right -= 1
             up += 1
