@@ -23,7 +23,7 @@ class Solution:
             left += 1
         
         """
-                # left, right = 0,0
+        # left, right = 0,0
         # while left < len(nums):
         #     if nums[left] != 0:
         #         nums[left], nums[right] = nums[right], nums[left]
