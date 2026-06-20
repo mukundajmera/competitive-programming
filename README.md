@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/mukundajmera/competitive-programming/tree/master/1036-rotting-oranges) |
+| [1089-duplicate-zeros](https://github.com/mukundajmera/competitive-programming/tree/master/1089-duplicate-zeros) |
 | [1127-last-stone-weight](https://github.com/mukundajmera/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/mukundajmera/competitive-programming/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/mukundajmera/competitive-programming/tree/master/1168-duplicate-zeros) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/mukundajmera/competitive-programming/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/mukundajmera/competitive-programming/tree/master/1089-duplicate-zeros) |
 | [1168-duplicate-zeros](https://github.com/mukundajmera/competitive-programming/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mukundajmera/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mukundajmera/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
