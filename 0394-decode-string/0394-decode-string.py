@@ -1,28 +1,22 @@
 class Solution:
     def decodeString(self, s: str) -> str:
         stack = []
-        idx = 0
-        while idx < len(s):
-            if s[idx] == "]":
-                #pop to make string will to find
-                partial_pattern = ""
-                while stack[-1] != "[":
-                    partial_pattern += stack.pop()
+        curr_string = ""
+        current_number = 0
 
-                partial_pattern = partial_pattern[::-1]
-                stack.pop()
-                #get digit
-                digit = []
-                # print(digit, stack)
-                while len(stack) > 0 and stack[-1] in "1234567890":
-                    digit.append(stack.pop())
-                # print(digit, stack, partial_pattern)
-                partial_pattern *= int("".join(digit[::-1]))
-                stack.extend(partial_pattern)
-                
+        for ch in s:
+            if ch.isdigit():
+                current_number = int(ch) + 10 * current_number
+            elif ch == "[":
+                stack.append(curr_string)
+                stack.append(current_number)
+                curr_string = ""
+                current_number = 0
+            elif ch == "]":
+                prev_num = stack.pop()
+                prev_string = stack.pop()
+                curr_string = prev_string + prev_num * curr_string
             else:
-                stack.append(s[idx])
-            idx += 1
-        return "".join(stack)
-                
-            
+                curr_string += ch
+            #print(stack, curr_string, current_number)
+        return curr_string 
