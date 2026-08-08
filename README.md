@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mukundajmera/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mukundajmera/competitive-programming/tree/master/0053-maximum-subarray) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mukundajmera/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mukundajmera/competitive-programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mukundajmera/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mukundajmera/competitive-programming/tree/master/0067-add-binary) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mukundajmera/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mukundajmera/competitive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mukundajmera/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1087,4 +1090,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mukundajmera/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
