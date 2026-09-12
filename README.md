@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mukundajmera/competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/mukundajmera/competitive-programming/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/mukundajmera/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/mukundajmera/competitive-programming/tree/master/1089-duplicate-zeros) |
 | [1127-last-stone-weight](https://github.com/mukundajmera/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/mukundajmera/competitive-programming/tree/master/1137-height-checker) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/mukundajmera/competitive-programming/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mukundajmera/competitive-programming/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/mukundajmera/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mukundajmera/competitive-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mukundajmera/competitive-programming/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/mukundajmera/competitive-programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
