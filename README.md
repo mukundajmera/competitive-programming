@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mukundajmera/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mukundajmera/competitive-programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mukundajmera/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/mukundajmera/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mukundajmera/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mukundajmera/competitive-programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/mukundajmera/competitive-programming/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mukundajmera/competitive-programming/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mukundajmera/competitive-programming/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/mukundajmera/competitive-programming/tree/master/0650-2-keys-keyboard) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/mukundajmera/competitive-programming/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/mukundajmera/competitive-programming/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/mukundajmera/competitive-programming/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukundajmera/competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/mukundajmera/competitive-programming/tree/master/0729-my-calendar-i) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/mukundajmera/competitive-programming/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/mukundajmera/competitive-programming/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/mukundajmera/competitive-programming/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mukundajmera/competitive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mukundajmera/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/mukundajmera/competitive-programming/tree/master/0502-ipo) |
@@ -982,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mukundajmera/competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/mukundajmera/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/mukundajmera/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/mukundajmera/competitive-programming/tree/master/0731-my-calendar-ii) |
