@@ -1141,4 +1141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/mukundajmera/competitive-programming/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/mukundajmera/competitive-programming/tree/master/0687-longest-univalue-path) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
