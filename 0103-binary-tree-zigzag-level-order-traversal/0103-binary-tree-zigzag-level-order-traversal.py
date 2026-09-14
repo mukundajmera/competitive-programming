@@ -31,3 +31,31 @@ class Solution:
             result.append(list(node_level))
             left2right = not left2right
         return result
+
+        # queue = deque()
+        # output = []
+        
+        # if not root:
+        #     return output
+        
+        # queue.append(root)
+        # ltr = True
+        # while queue:
+        #     current = []
+        #     stack = []
+        #     while queue:
+        #         element = queue.popleft()
+        #         if element.left:
+        #             stack.append(element.left)
+        #         if element.right:
+        #             stack.append(element.right)
+        #         current.append(element.val)
+        #     if ltr:
+        #         output.append(current)
+        #         ltr = False
+        #     else:
+        #         output.append(current[::-1])
+        #         ltr = True
+        #     # print(current, stack, ltr)
+        #     queue.extend(stack)
+        # return output
