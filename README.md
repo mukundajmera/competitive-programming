@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mukundajmera/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/mukundajmera/competitive-programming/tree/master/0792-binary-search) |
+| [0833-bus-routes](https://github.com/mukundajmera/competitive-programming/tree/master/0833-bus-routes) |
 | [0859-design-circular-deque](https://github.com/mukundajmera/competitive-programming/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/mukundajmera/competitive-programming/tree/master/0883-car-fleet) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mukundajmera/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mukundajmera/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukundajmera/competitive-programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0833-bus-routes](https://github.com/mukundajmera/competitive-programming/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/mukundajmera/competitive-programming/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/mukundajmera/competitive-programming/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mukundajmera/competitive-programming/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mukundajmera/competitive-programming/tree/master/0733-flood-fill) |
+| [0833-bus-routes](https://github.com/mukundajmera/competitive-programming/tree/master/0833-bus-routes) |
 | [0999-regions-cut-by-slashes](https://github.com/mukundajmera/competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mukundajmera/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mukundajmera/competitive-programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
