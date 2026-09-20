@@ -1,28 +1,22 @@
 class Solution:
-    def helper(self, matrix, row, col, nrow, ncol):        
-        #all value of row to zero
-        for r in range(ncol):
-            self.matrix[row][r] = 0
-            
-        #all value of col to zero
-        for c in range(nrow):
-            self.matrix[c][col] = 0
-            
-    def setZeroes(self, matrix: List[List[int]]) -> None:
+    def setZeroes(self, matrix: list[list[int]]) -> None:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        self.matrix = matrix
-        all_zeros = []
-        nrow, ncol = len(matrix), len(matrix[0])
-        #fetch all zeros
-        for row in range(nrow):
-            for col in range(ncol):
+        nrows,ncols = len(matrix), len(matrix[0])
+
+        zero_rows = set()
+        zero_cols = set()
+
+        for row in range(nrows):
+            for col in range(ncols):
+
                 if matrix[row][col] == 0:
-                    all_zeros.append((row,col))
-        
-        
-        #iterate for zero value cells and set matrix zeros for other cells
-        for row,col in all_zeros:
-            self.helper(self.matrix, row, col, nrow, ncol)
-        
+                    zero_rows.add(row)
+                    zero_cols.add(col)
+
+        for row in range(nrows):
+            for col in range(ncols):
+
+                if row in zero_rows or col in zero_cols:
+                    matrix[row][col] = 0
