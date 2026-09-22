@@ -1164,4 +1164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/mukundajmera/competitive-programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mukundajmera/competitive-programming/tree/master/0200-number-of-islands) |
+## K-D Tree
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/mukundajmera/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
